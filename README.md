@@ -1,1 +1,1 @@
-# typing
+# Rails Typing
